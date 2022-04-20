@@ -1,9 +1,10 @@
 export const firebaseConfig = {
-    apiKey: "AIzaSyBZztjXweYwYXE0G_7CdgBBne2UkpcFsMI",
-    authDomain: "rosco-e4f0b.firebaseapp.com",
-    databaseURL: "https://rosco-e4f0b.firebaseio.com",
-    projectId: "rosco-e4f0b",
-    storageBucket: "rosco-e4f0b.appspot.com",
-    messagingSenderId: "797136519301",
-    appId: "1:797136519301:web:2f88cefb6eaac9bad429ec"
+  apiKey: 'AIzaSyA0QZYyEdrXTpbFxjrfrdaIOcbe6exOMP8',
+  authDomain: 'jess-7480b.firebaseapp.com',
+  databaseURL:
+    'https://jess-7480b-default-rtdb.europe-west1.firebasedatabase.app',
+  projectId: 'jess-7480b',
+  storageBucket: 'jess-7480b.appspot.com',
+  messagingSenderId: '1039496025543',
+  appId: '1:1039496025543:web:f04cdeffa76e7a42b9f5e2',
 };

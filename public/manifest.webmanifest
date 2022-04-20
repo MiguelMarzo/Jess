@@ -1,26 +1,26 @@
 {
-    "name": "Rosco",
-    "short_name": "TB",
-    "icons": [
-      {
-        "src": "./images/tb.png",
-        "type": "image/png",
-        "sizes": "128x128"
-      },
-      {
-        "src": "./images/tb.png",
-        "type": "image/png",
-        "sizes": "256x256"
-      },
-      {
-        "src": "./images/tb.png",
-        "type": "image/png",
-        "sizes": "512x512"
-      }
-    ],
-    "start_url": ".",
-    "display": "standalone",
-    "background_color": "#333",
-    "theme_color": "#39c16c",
-    "orientation": "portrait"
+  "name": "Jess",
+  "short_name": "TB",
+  "icons": [
+    {
+      "src": "./images/tb.png",
+      "type": "image/png",
+      "sizes": "128x128"
+    },
+    {
+      "src": "./images/tb.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "./images/tb.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#333",
+  "theme_color": "#39c16c",
+  "orientation": "portrait"
 }
